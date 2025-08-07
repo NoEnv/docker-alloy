@@ -1,6 +1,6 @@
 FROM registry.fedoraproject.org/fedora-minimal:42
 
-ARG VERSION=1.10.0
+ARG VERSION=1.10.1
 
 RUN case "$(arch)" in \
        aarch64|arm64|arm64e) \
