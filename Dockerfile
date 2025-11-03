@@ -1,4 +1,4 @@
-FROM registry.fedoraproject.org/fedora-minimal:42
+FROM registry.fedoraproject.org/fedora-minimal:43
 
 ARG VERSION=1.11.3
 
